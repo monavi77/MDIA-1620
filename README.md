@@ -4,7 +4,7 @@ This is a great repository
 
 # AHA MOMENT
 1. Coconut jam
-2. Making peanut butter toast with Sonjia
+2. Making peanut butter toast with Sonja
 3. Don't have an umbrella when it is rainy
 
 ## UNCLEAR THINGS
