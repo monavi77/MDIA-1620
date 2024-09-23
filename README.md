@@ -13,3 +13,15 @@ This is a great repository
 
 ### My feeling description 
 *Sleepy*
+
+# Learned things
+1. Terminal use with visual studio
+2. Additing new file to github
+3. Java Script beginning 
+
+## Big confusion 
+1. Writing code into the terminal
+2. Necessity of big amount of time for me and others to understand basics
+
+### My feeling description 
+*Ready to work on weakness*
