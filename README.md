@@ -14,6 +14,9 @@ This is a great repository
 ### My feeling description 
 *Sleepy*
 
+![image](https://github.com/user-attachments/assets/2f473b4d-cc9c-4ca9-8336-75cd4bd15067)
+
+
 # Learned things
 1. Terminal use with visual studio
 2. Additing new file to github
