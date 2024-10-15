@@ -28,3 +28,16 @@ This is a great repository
 
 ### My feeling description 
 *Ready to work on weakness*
+
+<!-- Lab 6 -->
+# Big confusion
+1. Merging is still a litlle bit unclear 
+2. How to save my code right in a file 
+3. I need to read more about booleans and strings
+
+## Solid understanding 
+1. I feel confident using terminal; It doesn't scare anymore
+2. Understanding that I am working with computer, so commands have to be clear and correct. Using of commands like git push, git commit or node making more sense now 
+3. Convinience of using Tab 
+
+
